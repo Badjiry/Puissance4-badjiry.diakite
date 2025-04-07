@@ -2,6 +2,5 @@
 Puissance 4 créé au cours de la formation.
 technologie utilisée: 
 - JS
-- PHP
 - HTML
 - CSS
