@@ -24,3 +24,20 @@ Un jeu local pour deux joueurs avec une interface simple en HTML/CSS. Le but est
   ├── package.json # Dépendances (Babel)
   └── README.md # Documentation
 
+## 🛠️ Installation et exécution
+
+1. **Cloner le projet :**
+
+```bash
+git clone https://github.com/votre-utilisateur/puissance4-js.git
+cd puissance4-js
+
+npm install
+
+npx babel src --out-dir dist
+
+⚙️ Fichier .babelrc
+{
+  "presets": ["@babel/preset-env"]
+}
+
