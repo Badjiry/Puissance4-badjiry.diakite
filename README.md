@@ -17,5 +17,10 @@ Un jeu local pour deux joueurs avec une interface simple en HTML/CSS. Le but est
 - Utilisation de **Babel** pour compatibilité large
 
 ## 📁 Structure du projet
-
+├── JS # partie JavaScript
+  ├── index.html # Structure de la page
+  ├── style.css # Style du jeu
+  ├── .babelrc # Config Babel
+  ├── package.json # Dépendances (Babel)
+  └── README.md # Documentation
 
