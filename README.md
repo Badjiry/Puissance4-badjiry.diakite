@@ -1,7 +1,7 @@
 # puissance4-badjiry.diakite
 # 🎯 Puissance 4 en JavaScript (avec Babel)
 
-Un jeu **Puissance 4** réalisé en **JavaScript moderne (ES6+)**, transpilé avec **Babel** pour une compatibilité maximale avec tous les navigateurs. Ce projet repose sur du JavaScript natif sans framework.
+Un jeu **Puissance 4** réalisé en **JavaScript moderne (ES6+)**, transpilé avec **Babel** pour une compatibilité maximale avec tous les navigateurs. Ce projet repose sur du JavaScript natif.
 
 ## 🔍 Aperçu
 
